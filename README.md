@@ -1,4 +1,4 @@
-# yun
+# guidePage
 ios app引导页
 // 设置APP引导页
     if (![[NSUserDefaults standardUserDefaults] boolForKey:BOOLFORKEY]) {
